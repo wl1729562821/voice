@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">voiceLibrary</string>
+    <string name="voice_view_title">按住说话</string>
+</resources>
